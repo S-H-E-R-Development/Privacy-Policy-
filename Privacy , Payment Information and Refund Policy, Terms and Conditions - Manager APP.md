@@ -47,6 +47,7 @@
         We take appropriate measures to ensure the security of your payment information during transmission and processing. All payment transactions are encrypted using secure socket layer (SSL) technology to prevent unauthorized access or interception of your data.
         Confidentiality:
         Your payment information is treated with the utmost confidentiality. We do not share, sell, or disclose your payment details to third parties, except as required by law or as necessary to process your payment transaction.
+        We keep the transaction history of only the most recent transaction.
         Contact Us:
         If you have any questions or concerns about our Payment Information Policy or the handling of your payment data, please contact us at help@managelibs.com
         Updates to Payment Information Policy:
