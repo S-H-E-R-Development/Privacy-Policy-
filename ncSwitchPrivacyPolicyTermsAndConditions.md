@@ -1,3 +1,5 @@
+# ncSwitch: Terms & conditions + Privacy Policy
+
 ### Terms and Conditions
 
 Welcome to ncSwitch, a product powered by the Library Management System and affiliated with Society of Humanity Education and Research. By downloading, installing, and using the ncSwitch app, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully before using our app.
@@ -53,3 +55,10 @@ ncSwitch may contain links to third-party websites or services that are not owne
 Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us.
 
 By using ncSwitch, you agree to these terms and conditions and our privacy policy. If you have any questions or concerns, please reach out to us at help@managelibs.com.
+
+Regards,
+Library Management System (managelibs.com)
+Society of Humanity Education and Research
+
+Dated: 30 May, 2024  
+Last Modification Date: 30 May, 2024
