@@ -56,8 +56,13 @@ Our app does not address anyone under the age of 13. We do not knowingly collect
 
 By using ncSwitch, you agree to these terms and conditions and our privacy policy. If you have any questions or concerns, please reach out to us at help@managelibs.com.
 
+
 Regards,
+
+
 Library Management System (managelibs.com)
+
+
 Society of Humanity Education and Research
 
 Dated: 30 May, 2024  
