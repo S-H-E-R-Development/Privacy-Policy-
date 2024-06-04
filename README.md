@@ -32,4 +32,30 @@
       help@managelibs.com 
       
       April 28, 2024
+
+____________________________________________________________________________________________________________
+
+**updated Privacy Policy**
+      
+      
+      Effective from: June 04, 2024
+      
+      This updated Privacy Policy includes the following additional points:
+      
+      1. In-App Web-View: We do not track or store data from the websites you visit within the in-app web-view feature.
+      2. Feedback Data: Feedback provided through the app is stored securely and used solely for improving our services.
+      3. Data Security: We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.
+      4. User Consent: By using the Aspirant App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
+      
+      We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+      
+      If you have any questions or need further information, please feel free to contact us at help@managelibs.com.
+      
+      Regards,
+      managelibs.com Team
+      help@managelibs.com
+      
+      June 04, 2024
+      
+      
       
