@@ -1,56 +1,92 @@
-# Privacy Policy for Advanced Classroom Lite
+---
+
+# Privacy Policy for Advanced Classroom Lite including Admin APP, Faculty APP, Student APP
 
 ## Introduction
-Society of Humanity Education & Research ("we," "our," or "us") is committed to safeguarding the privacy of all users ("you," "your," or "user") of our Advanced Classroom Lite suite of applications, including the Admin App, Faculty App, and Student App. This Privacy Policy outlines the types of information we collect, how it is used, and how we protect your personal data.
+[Introduction](#introduction) | [Information We Collect](#information-we-collect) | [How We Use Your Information](#how-we-use-your-information) | [Data Protection and Security](#data-protection-and-security) | [Data Sharing](#data-sharing) | [User Rights](#user-rights) | [Account Deletion Request](#account-deletion-request) | [Changes to This Policy](#changes-to-this-policy) | [Contact Us](#contact-us)
 
-## Information We Collect
-To provide and enhance the functionality of our Advanced Classroom Lite apps, we collect the following information:
+---
 
-### Personal Information:
-- **Name**: Used for authentication and user identification.
-- **Email Address**: Required for account creation, authentication, and communication.
-- **Mobile Number**: Utilized for app functionality such as notifications and communication.
-- **Class/Department/Designation**: Used for organizing users within the app, ensuring proper functionality, and streamlining the user experience.
-- **Institute Information**: This includes the name, address, and owner’s name of the institute, as well as class details, which are essential for the apps' operations.
+### [Introduction](#introduction)
+Welcome to the Privacy Policy of the Advanced Classroom Lite suite of applications, developed by Society of Humanity Education & Research ("we," "our," or "us"). We are committed to safeguarding your privacy. This policy outlines the types of information we collect, how it is used, and the measures we take to protect your personal data. By using our apps—Admin App, Faculty App, and Student App—you agree to the terms outlined in this policy.
 
-## How We Use Your Information
-The information collected is used solely for the following purposes:
+### [Information We Collect](#information-we-collect)
+To enhance the functionality of our Advanced Classroom Lite apps, we collect the following information:
 
-- **Account Management**: To create and manage user accounts within the app.
-- **Authentication**: To verify and authenticate users, ensuring secure access to the apps.
-- **Functionality**: To enable app features such as class management, attendance tracking, and classroom oversight.
-- **Communication**: To send important updates, notifications, and respond to user inquiries.
-- **Improvement**: To analyze app usage and improve user experience.
+#### 1. Personal Information:
+- **Name**: Used for authentication and identification within the app.
+- **Email Address**: Required for account creation, user authentication, and communication.
+- **Mobile Number**: Utilized for in-app notifications and communication.
+- **Class/Department/Designation**: Helps organize users within the app for a streamlined experience.
+- **Institute Information**: Includes the name, address, owner’s name of the institute, and class details, essential for app operations.
 
-## Data Protection and Security
-We take the protection of your data seriously and implement the following measures to ensure its security:
+### [How We Use Your Information](#how-we-use-your-information)
+We use the information collected solely for the following purposes:
 
-- **Data Encryption**: All data transmitted between your device and our servers is encrypted using industry-standard protocols.
-- **Secure Storage**: Personal information is stored securely in our databases, which are protected by firewalls and access controls.
-- **Access Control**: Only authorized personnel have access to your data, and their access is limited to what is necessary for providing and improving our services.
+#### 1. Account Management
+- To create and manage user accounts within the app.
 
-## Data Sharing
-We do not share your personal information with third parties except in the following circumstances:
+#### 2. Authentication
+- To verify and authenticate users, ensuring secure access to the apps.
 
-- **Legal Compliance**: If required by law, we may disclose your information to comply with legal obligations, court orders, or government requests.
-- **Service Providers**: We may share data with trusted service providers who assist in operating our apps, provided they adhere to strict confidentiality agreements and data protection standards.
+#### 3. Functionality
+- To enable core app features such as class management, attendance tracking, and classroom oversight.
 
-## User Rights
+#### 4. Communication
+- To send important updates, notifications, and respond to user inquiries.
+
+#### 5. Improvement
+- To analyze app usage and improve the user experience.
+
+### [Data Protection and Security](#data-protection-and-security)
+We take your data protection seriously and employ the following security measures:
+
+#### 1. Data Encryption
+- All data transmitted between your device and our servers is encrypted using industry-standard protocols.
+
+#### 2. Secure Storage
+- Personal information is securely stored in our databases, protected by firewalls and access controls.
+
+#### 3. Access Control
+- Only authorized personnel have access to your data, with access limited to what is necessary for service provision and improvement.
+
+### [Data Sharing](#data-sharing)
+We do not share your personal information with third parties except under the following circumstances:
+
+#### 1. Legal Compliance
+- If required by law, we may disclose your information to comply with legal obligations, court orders, or government requests.
+
+#### 2. Service Providers
+- We may share data with trusted service providers who assist in operating our apps, provided they adhere to strict confidentiality agreements and data protection standards.
+
+### [User Rights](#user-rights)
 As a user, you have the following rights regarding your personal information:
 
-- **Access**: You can request a copy of the data we hold about you.
-- **Correction**: You can request corrections to any inaccurate or incomplete data.
-- **Deletion**: You can request the deletion of your personal data, subject to legal and contractual obligations.
-- **Data Portability**: You can request a portable copy of your data.
+#### 1. Access
+- You can request a copy of the data we hold about you.
 
-## Changes to This Policy
+#### 2. Correction
+- You can request corrections to any inaccurate or incomplete data.
+
+#### 3. Deletion
+- You can request the deletion of your personal data, subject to legal and contractual obligations.
+
+#### 4. Data Portability
+- You can request a portable copy of your data.
+
+### [Account Deletion Request](#account-deletion-request)
+If you wish to delete your account, you can send a request to help@managelibs.com. We will process and delete your account within three (3) days of receiving the request.
+
+### [Changes to This Policy](#changes-to-this-policy)
 We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. We will notify users of any significant changes through the app or via email.
 
-## Contact Us
-If you have any questions or concerns about this Privacy Policy or your data, please contact us at:
+### [Contact Us](#contact-us)
+If you have any questions or concerns about this Privacy Policy or your data, please contact us:
 
 **Society of Humanity Education & Research**  
-Email: help@managelibs.com
+Email: help@managelibs.com  
 Address: Chowk Bazar, Maharajganj - 273303, Uttar Pradesh, India
+Dated: 20-08-2024
 
-By using the Advanced Classroom Lite apps, you agree to this Privacy Policy and the processing of your data as described above. We are committed to protecting your privacy and ensuring a secure and trustworthy experience with our applications.
+We are committed to protecting your privacy and ensuring a secure and trustworthy experience with our applications. Thank you for trusting Advanced Classroom Lite.
+
