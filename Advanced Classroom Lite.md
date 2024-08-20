@@ -1,6 +1,6 @@
 ---
 
-# Privacy Policy for Advanced Classroom Lite including Admin APP, Faculty APP, Student APP
+# Privacy Policy for Advanced Classroom Lite including Admin APP, Faculty APP and Student APP
 
 ## Introduction
 [Introduction](#introduction) | [Information We Collect](#information-we-collect) | [How We Use Your Information](#how-we-use-your-information) | [Data Protection and Security](#data-protection-and-security) | [Data Sharing](#data-sharing) | [User Rights](#user-rights) | [Account Deletion Request](#account-deletion-request) | [Changes to This Policy](#changes-to-this-policy) | [Contact Us](#contact-us)
