@@ -87,6 +87,7 @@ If you have any questions or concerns about this Privacy Policy or your data, pl
 Email: help@managelibs.com  
 Address: Chowk Bazar, Maharajganj - 273303, Uttar Pradesh, India
 Dated: 20-08-2024
+https://managelibs.com/ 
 
 We are committed to protecting your privacy and ensuring a secure and trustworthy experience with our applications. Thank you for trusting Advanced Classroom Lite.
 
