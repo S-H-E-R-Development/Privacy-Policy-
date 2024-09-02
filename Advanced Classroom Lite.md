@@ -75,7 +75,7 @@ As a user, you have the following rights regarding your personal information:
 - You can request a portable copy of your data.
 
 ### [Account Deletion Request](#account-deletion-request)
-If you wish to delete your account, you can send a request to help@managelibs.com. We will process and delete your account within three (3) days of receiving the request.
+If you wish to delete your account, you can send a request to help@managelibs.com. We will process and delete your account within thirty (30) days of receiving the request.
 
 ### [Changes to This Policy](#changes-to-this-policy)
 We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. We will notify users of any significant changes through the app or via email.
@@ -87,7 +87,7 @@ If you have any questions or concerns about this Privacy Policy or your data, pl
 Email: help@managelibs.com  
 Address: Chowk Bazar, Maharajganj - 273303, Uttar Pradesh, India
 
-Dated: 20-08-2024
+Dated: 02-09-2024
 
 https://managelibs.com/ 
 
