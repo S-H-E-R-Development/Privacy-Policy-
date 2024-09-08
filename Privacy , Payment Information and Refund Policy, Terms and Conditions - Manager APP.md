@@ -1,6 +1,4 @@
 
----
-
 # Manager App Policies and Terms
 
 Welcome to the policies and terms page for **Manager App**, part of the Society of Humanity Education and Research (SHER). Below you'll find key information regarding our privacy policies, payment handling, refund process, and terms of service.
@@ -132,7 +130,7 @@ If you have any questions or concerns regarding our policies, please contact us 
 **Website:** [https://managelibs.com](https://managelibs.com)  
 **Team:** Society of Humanity Education and Research  
 
-_Last Updated: 09/05/2024_
+_Last Updated: 08/09/2024_
 
 [Back to Top](#table-of-contents)
 
@@ -257,7 +255,7 @@ _Last Updated: 09/05/2024_
 **वेबसाइट:** [https://managelibs.com](https://managelibs.com)  
 **टीम:** Society of Humanity Education and Research  
 
-**अंतिम अद्यतन:** 09/05/2024
+**अंतिम अद्यतन:** 08/09/2024
 
 [Back to Top](#table-of-contents)
 
