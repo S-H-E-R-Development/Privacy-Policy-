@@ -5,7 +5,7 @@
 Welcome to the **Fingerprint Door Lock System**. This document outlines the key aspects of the **Privacy Policy** and **Terms and Conditions** related to the system. Please read through the following sections carefully to understand how your data is protected and what terms apply to using the system.
 
 ---
-## .[See In Hindi](#Hindi)
+## .[हिन्दी में देखें](#Hindi)
 ## Table of Contents
 
 1. [Privacy Policy](#privacy-policy)
@@ -33,7 +33,7 @@ Welcome to the **Fingerprint Door Lock System**. This document outlines the key 
 
 ## Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 25-10-2024
 
 At **Society of Humanity Education and Research**, we are committed to safeguarding your privacy. This Privacy Policy outlines the data we collect, how it is used, stored, and your rights concerning the **Fingerprint Door Lock System**.
 
@@ -64,13 +64,20 @@ At **Society of Humanity Education and Research**, we are committed to safeguard
 ### Updates to the Privacy Policy
 - We may update this policy from time to time. Any changes will be reflected with an updated effective date here.
 
-For inquiries, please contact us at [Insert Contact Information].
+
+For inquiries, please contact us at
+
+      Email us: help@managelibs.com 
+      Contact us: +916388257447
+      Library Management System
+      Society of Humanity Education and Research
+      https://managelibs.com/
 
 ---
 
 ## Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 25-10-2024
 
 These Terms and Conditions govern the use of the **Fingerprint Door Lock System** provided by **Society of Humanity Education and Research**. By using this system, you agree to the following terms.
 
@@ -108,7 +115,15 @@ These Terms and Conditions govern the use of the **Fingerprint Door Lock System*
 ### Modifications to Terms
 - We reserve the right to update these terms. Any changes will be posted with an updated effective date.
 
-For any questions or concerns, please contact us at [Insert Contact Information].
+
+For inquiries, please contact us at
+
+      Email us: help@managelibs.com 
+      Contact us: +916388257447
+      Library Management System
+      Society of Humanity Education and Research
+      https://managelibs.com/
+
 
 ---
 Here is the translated **Privacy Policy** and **Terms and Conditions** for your **Fingerprint Door Lock System** in Hindi.
@@ -149,7 +164,7 @@ Here is the translated **Privacy Policy** and **Terms and Conditions** for your 
 
 ## गोपनीयता नीति
 
-**प्रभावी तिथि:** [तिथि डालें]
+**प्रभावी तिथि:** 25-10-2024
 
 **सोसाइटी ऑफ ह्यूमैनिटी एजुकेशन एंड रिसर्च** में, हम आपकी गोपनीयता की सुरक्षा के लिए प्रतिबद्ध हैं। यह गोपनीयता नीति उस डेटा का विवरण देती है जिसे हम एकत्र करते हैं, इसका उपयोग कैसे किया जाता है, संग्रहीत किया जाता है, और **फिंगरप्रिंट डोर लॉक सिस्टम** से संबंधित आपकी अधिकारिता।
 
@@ -180,13 +195,21 @@ Here is the translated **Privacy Policy** and **Terms and Conditions** for your 
 ### गोपनीयता नीति में अपडेट
 - हम समय-समय पर इस नीति को अपडेट कर सकते हैं। किसी भी बदलाव को यहाँ एक अपडेट की गई प्रभावी तिथि के साथ परिलक्षित किया जाएगा।
 
-किसी भी प्रश्न के लिए, कृपया हमसे [संपर्क जानकारी डालें] पर संपर्क करें।
+किसी भी प्रश्न के लिए, कृपया हमसे संपर्क करें।
+
+
+      Email us: help@managelibs.com 
+      Contact us: +916388257447
+      Library Management System
+      Society of Humanity Education and Research
+      https://managelibs.com/
+
 
 ---
 
 ## नियम और शर्तें
 
-**प्रभावी तिथि:** [तिथि डालें]
+**प्रभावी तिथि:** 25-10-2024
 
 ये नियम और शर्तें **सोसाइटी ऑफ ह्यूमैनिटी एजुकेशन एंड रिसर्च** द्वारा प्रदान किए गए **फिंगरप्रिंट डोर लॉक सिस्टम** के उपयोग को नियंत्रित करते हैं। इस सिस्टम का उपयोग करके, आप निम्नलिखित शर्तों से सहमत होते हैं।
 
@@ -224,6 +247,13 @@ Here is the translated **Privacy Policy** and **Terms and Conditions** for your 
 ### शर्तों में संशोधन
 - हम इन शर्तों को संशोधित करने का अधिकार सुरक्षित रखते हैं। किसी भी परिवर्तन को यहाँ एक अपडेट की गई प्रभावी तिथि के साथ पोस्ट किया जाएगा।
 
-किसी भी प्रश्न के लिए, कृपया हमसे [संपर्क जानकारी डालें] पर संपर्क करें।
+किसी भी प्रश्न के लिए, कृपया हमसे संपर्क करें।
+
+
+      Email us: help@managelibs.com 
+      Contact us: +916388257447
+      Library Management System
+      Society of Humanity Education and Research
+      https://managelibs.com/
 
 ---
