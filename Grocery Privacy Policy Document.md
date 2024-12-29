@@ -11,7 +11,7 @@ Welcome to **Grocery: To Reduce Grocery Wastage**! We are committed to safeguard
 ## Information We Collect  
 To provide an efficient and seamless experience, we collect:  
 - **Personal Information**: Email, Name, Country Code, Mobile Number, Postal Code, Currency.  
-- **Grocery Data**: Entry Date, Expiry Date, Item Details (ID, Quantity, Unit, etc.), Investment, Consumption, Remaining Quantities, Metadata.  
+- **Grocery Data**: Entry Date, Expiry Date, Item Details (ID, Quantity, Unit, etc.), Investment, Consumption, Remaining Quantities.  
 
 ### **Why We Collect Your Data**  
 Your data is collected solely to enable app functionality, such as:  
