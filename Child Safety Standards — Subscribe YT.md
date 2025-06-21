@@ -1,6 +1,6 @@
 # Child Safety Standards – Subscribe YT
 
-**Last Updated:** June 2025  
+**Released Date:** June 2025  
 **Contact:** [rkverma.sher@gmail.com](mailto:rkverma.sher@gmail.com)
 
 ## Overview
