@@ -1,6 +1,6 @@
 # Privacy Policy and Terms of Service for Subscribe YT
 
-**Effective Date:** August 1, 2025
+**Effective Date:** June 22, 2025
 
 Thank you for using **Subscribe YT**, an app designed to help YouTubers support each other by connecting and subscribing to fellow creators’ channels. We are committed to protecting your personal data and maintaining your trust.
 
@@ -69,8 +69,6 @@ This Privacy Policy complies with **Google Play Developer Program Policies** reg
 # Terms of Service – Subscribe YT
 
 **Effective Date:** August 1, 2025
-
-These Terms of Service ("Terms") govern your use of the Subscribe YT mobile application ("App") operated by the Society of Humanity Education and Research ("we", "us", or "our").
 
 ---
 
