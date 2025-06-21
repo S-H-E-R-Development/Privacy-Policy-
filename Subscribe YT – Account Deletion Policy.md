@@ -48,7 +48,7 @@ If you face any issues or have additional questions, feel free to contact:
 
 ---
 
-**Developer:** Society of Humanity Education and Research  
+**Developer** Rajkumar Verma
 **App:** Subscribe YT  
 **Website:** [https://subscribe-yt.com](https://subscribe-yt.com)
 
