@@ -68,7 +68,7 @@ This Privacy Policy complies with **Google Play Developer Program Policies** reg
 
 # Terms of Service – Subscribe YT
 
-**Effective Date:** August 1, 2025
+**Effective Date:** June 22, 2025
 
 ---
 
