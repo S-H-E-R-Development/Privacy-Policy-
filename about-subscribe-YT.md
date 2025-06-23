@@ -14,10 +14,6 @@
 * Connect with fellow creators who are interested in supporting each other.
 * Exchange subscriptions transparently through a structured acknowledgment system.
 
-### 👥 Channel Management
-
-* Add your YouTube channel details.
-* View and manage your profile anytime from the **Profile Tab**.
 
 ### 📈 Growth Tracking
 
