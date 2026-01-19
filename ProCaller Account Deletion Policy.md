@@ -25,17 +25,9 @@ You have the absolute right to delete your ProCaller account at any time, for an
 
 ## 3. How to Request Account Deletion
 
-You can request account deletion through two methods:
+You can request account deletion through following methods:
 
-### Method 1: In-App Deletion (Recommended)
-
-1. Open the ProCaller app
-2. Go to **Settings** or **Account Settings**
-3. Select **Delete Account** or **Close Account**
-4. Confirm your decision
-5. You will receive an email confirmation
-
-### Method 2: Email Request
+### Method: Email Request
 
 1. Send an email to **rkverma@sherdeepai.com**
 2. **Subject line:** "Account Deletion Request"
