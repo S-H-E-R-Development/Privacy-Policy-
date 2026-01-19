@@ -22,7 +22,7 @@ You can request deletion of:
 - **Analytics Data** - Usage statistics and performance metrics
 - **Saved Contacts** - Domain numbers saved in your app
 - **All Your Data** - Complete data deletion while keeping account active
-- **Your Entire Account** - See our [Account Deletion Policy](https://procaller.sherdeepai.com/account-deletion-policy)
+- **Your Entire Account** - See our [Account Deletion Policy]('https://github.com/S-H-E-R-Development/Privacy-Policy-/blob/main/ProCaller%20Account%20Deletion%20Policy.md')
 
 ---
 
@@ -81,12 +81,6 @@ Thank you
 We typically respond within 48 hours.
 
 ---
-
-## Related Links
-
-- [Privacy Policy](https://procaller.sherdeepai.com/privacy-policy)
-- [Account Deletion Policy](https://procaller.sherdeepai.com/account-deletion-policy)
-- [Terms of Use](https://procaller.sherdeepai.com/terms-of-use)
 
 ---
 
