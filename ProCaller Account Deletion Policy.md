@@ -33,7 +33,7 @@ You can request account deletion through following methods:
 2. **Subject line:** "Account Deletion Request"
 3. **Include:** Your registered email address
 4. We will verify your identity and process your request
-5. You will receive confirmation within 48 hours
+5. You will receive confirmation within 72 hours
 
 ---
 
