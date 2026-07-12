@@ -76,7 +76,7 @@
 ## 🌐 Community & Support
 
 * **Telegram Group**: Click **Join** on your **Profile Tab**
-* **Report Issues or Suggestions**: [ceo@bidonad.com](mailto:ceo@bidonad.com) | [rkverma@gmail.com](mailto:rkverma@gmail.com)
+* **Report Issues or Suggestions**:  [rkverma@gmail.com](mailto:rkverma@gmail.com)
 
 ---
 
