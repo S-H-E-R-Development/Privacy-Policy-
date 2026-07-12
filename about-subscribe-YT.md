@@ -1,9 +1,9 @@
 
 ---
 
-# About Subscribe YT
+# About Subscribers
 
-**Subscribe YT** is a dedicated platform for YouTube creators to grow their channels by connecting with other genuine YouTubers. We promote safe, transparent, and mutual support—helping creators collaborate and grow together.
+**Subscribers** is a dedicated platform for YouTube creators to grow their channels by connecting with other genuine YouTubers. We promote safe, transparent, and mutual support—helping creators collaborate and grow together.
 
 ---
 
@@ -89,6 +89,6 @@
 
 ---
 
-Grow together, support genuinely, and be part of a trusted YouTube creator community with **Subscribe YT**.
+Grow together, support genuinely, and be part of a trusted YouTube creator community with **Subscribers**.
 
 ---
