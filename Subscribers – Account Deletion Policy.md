@@ -49,4 +49,3 @@ If you face any issues or have additional questions, feel free to contact:
 
 **Developer** Rajkumar Verma
 **App:** Subscribers  
-**Website:** [https://subscribe-yt.com](https://subscribe-yt.com)
