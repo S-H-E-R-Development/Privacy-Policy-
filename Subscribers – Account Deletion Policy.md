@@ -4,11 +4,10 @@ Thank you for using **Subscribers**, a platform built for YouTubers to grow toge
 
 ## 🚮 Request Account & Data Deletion
 
-If you wish to delete your **Subscribers** account and all associated data, you can submit a deletion request at the link below:
+If you wish to delete your **Subscribers** account and all associated data, you can send a deletion request at the email below:
 
-👉 **[Request Account Deletion](https://subscribe-yt.com/delete-account)**
+👉 **rkverma.sher@gmail.com**
 
-> This link will guide you through the process to permanently delete your account.
 
 ---
 
